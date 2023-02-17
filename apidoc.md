@@ -1,4 +1,4 @@
-page 1
+
 
 
 http://localhost:9500/category
